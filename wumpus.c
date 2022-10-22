@@ -1,8 +1,7 @@
 /* ---------------------------------------------
-Course: CS 211, Fall 2022. 
+Course: UIC CS 211, Fall 2022. 
 System: Macbook Pro via replit
-Author: Faaizuddin Farooqui
-UIN: 656079703
+Author: Faaizuddin Farooqui 
 ------------------------------------------------
 */
 #include <ctype.h>    // for tolower()
