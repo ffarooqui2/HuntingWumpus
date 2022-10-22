@@ -4,7 +4,7 @@ The Wumpus lives in a completely dark cave of 20 rooms.  Each room has 3 tunnels
 
 ## Rules:
 
-Hazards:                                                     
+### Hazards:                                                     
 1. Two rooms have bottomless pits in them.  If you go there you fall and die.   
 2. Two other rooms have super-bats.  If you go there, the bats grab you and     
    fly you to some random room, which could be troublesome.  Then those bats go 
@@ -17,7 +17,7 @@ Hazards:
     odd-numbered room, but stays still otherwise.  After that, if he is in your 
     room, he snaps your neck and you die!                                       
                                                                                 
-Moves:                                                                          
+### Moves:                                                                          
 On each move you can do the following, where input can be upper or lower-case:  
 1. Move into an adjacent room.  To move enter 'M' followed by a space and       
    then a room number.                                                          
