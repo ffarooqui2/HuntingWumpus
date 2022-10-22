@@ -1,6 +1,5 @@
 /* ---------------------------------------------
-Course: UIC CS 211, Fall 2022. 
-System: Macbook Pro via replit
+Course: UIC CS 211, Fall 2022.
 Author: Faaizuddin Farooqui 
 ------------------------------------------------
 */
