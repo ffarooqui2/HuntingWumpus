@@ -1,6 +1,5 @@
 /* ---------------------------------------------
-Program 2: Wumpus Version 2
-Course: CS 211, Fall 2022. Tuesday 2PM Lab
+Course: CS 211, Fall 2022. 
 System: Macbook Pro via replit
 Author: Faaizuddin Farooqui
 UIN: 656079703
